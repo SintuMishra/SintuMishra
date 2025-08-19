@@ -7,19 +7,39 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java, Python, JavaScript, SQL  
-- **Frontend:** HTML, CSS, React.js  
-- **Backend:** Node.js, Express.js, Spring Boot  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, IntelliJ, Eclipse  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-- [Portfolio Website](https://github.com/SintuMishra/portfolio-website)  
-- [To-Do App](https://github.com/SintuMishra/todo-app)  
-- [Weather App](https://github.com/SintuMishra/weather-app)  
-- [JavaFX Scientific Calculator](https://github.com/SintuMishra/JavaFX-Scientific-Calculator)  
+- [🌐 Portfolio Website](https://github.com/SintuMishra/portfolio-website)  
+- [📝 To-Do App](https://github.com/SintuMishra/todo-app)  
+- [☁️ Weather App](https://github.com/SintuMishra/weather-app)  
+- [🖩 JavaFX Scientific Calculator](https://github.com/SintuMishra/JavaFX-Scientific-Calculator)  
+
+---
+
+## 📊 GitHub Stats
+![Sintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SintuMishra&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SintuMishra&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SintuMishra&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=SintuMishra&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
