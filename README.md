@@ -337,19 +337,6 @@ Source repositories are available through my GitHub profile and portfolio.
 
 ---
 
-## Engineering Activity
-
-<p align="center">
-  <img width="49%" src="./assets/github-stats.svg" alt="GitHub Statistics"/>
-  <img width="49%" src="./assets/top-languages.svg" alt="Language Distribution"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="./assets/contribution-graph.svg" alt="Contribution Activity"/>
-</p>
-
----
-
 # Computer Science Foundation
 
 `Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks`
