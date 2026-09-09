@@ -1,40 +1,43 @@
 <h1 align="center">Sintu Mishra</h1>
 
-<p align="center">
-  <strong>Software Engineer · Backend · Systems · Robotics</strong>
-</p>
+<h3 align="center">
+Software Engineer · Backend · Systems · Robotics
+</h3>
 
 <p align="center">
-  Building reliable software, automation, and data systems for real-world engineering environments.
+Building reliable software, automation, and data systems for real-world engineering environments.
 </p>
 
 <p align="center">
   <a href="https://portfolio-flame-six-93wdoxmah1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sintu-mishra-3o11/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sintumishra22201@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## About
+## Engineering Profile
 
-I'm a **Computer Science & Data Science graduate** working across backend engineering, Linux systems, automation, and robotics operations.
+I'm a **Software Engineer and Computer Science & Data Science graduate** working across backend engineering, Linux systems, automation, data infrastructure, and robotics operations.
 
-Currently, I work as an **Advanced Robotics Intern at Addverb Technologies**, where I contribute to Python-based engineering tools, robotics data workflows, Linux workstations, system diagnostics, reporting automation, and technical documentation.
+Currently, I work as an **Advanced Robotics Intern at Addverb Technologies**, where my engineering experience includes Python-based tooling, robotics data workflows, Linux workstations, system diagnostics, reporting automation, storage and networking workflows, and technical documentation.
 
-My engineering interests center on systems where **software, infrastructure, data, and hardware meet**.
+My work and interests sit at the intersection of:
 
 ```text
 Backend Engineering       Linux Systems
 Robotics Software         Data Infrastructure
 Engineering Automation    Full-Stack Applications
+Databases                  System Integration
 ```
+
+I particularly enjoy engineering problems where **software interacts with real systems, operational workflows, data, infrastructure, and hardware**.
 
 ---
 
@@ -44,14 +47,19 @@ Engineering Automation    Full-Stack Applications
 
 **May 2026 – Present · Noida, India**
 
-- Developed internal **Python reporting and dashboard tooling** supporting robotics data-collection operations.
-- Automated **shift- and date-based reporting workflows**, reducing dependence on manual spreadsheet processes.
-- Worked with **Linux-based robotics workstations**, production data workflows, storage, and networking.
-- Troubleshot **SSH, networking, robot communication, recording services, and hardware/software integration**.
-- Worked with robotics data acquisition, validation, storage, and operational reliability workflows.
-- Created **technical documentation, setup procedures, troubleshooting guides, and shift-handover documentation**.
+Working in an advanced robotics environment supporting software, systems, automation, and data-collection operations.
 
-> Professional robotics work is described at a high level. Proprietary source code, infrastructure details, internal datasets, and confidential systems are not published.
+**Engineering contributions:**
+
+* Developed internal **Python reporting and dashboard tooling** supporting robotics data-collection operations.
+* Automated **shift- and date-based reporting workflows**, reducing dependence on repetitive spreadsheet-based processes.
+* Worked with **Linux-based robotics workstations** and production data-collection workflows.
+* Troubleshot **SSH, networking, robot communication, recording services, storage, and hardware/software integration**.
+* Worked with robotics data acquisition, validation, storage, and operational reliability workflows.
+* Supported diagnosis of workstation, device-communication, and data-pipeline issues.
+* Created **technical documentation, setup procedures, troubleshooting guides, and shift-handover documentation**.
+
+> Professional robotics work is intentionally described at a high level. Proprietary source code, internal infrastructure details, private datasets, credentials, and confidential systems are not published.
 
 ---
 
@@ -59,103 +67,213 @@ Engineering Automation    Full-Stack Applications
 
 ### Robotics Data Collection Infrastructure
 
-Engineering work around reliable robotics data-acquisition environments, including Linux workstations, multi-device acquisition, camera and robot data workflows, storage integration, structured datasets, and performance diagnostics.
+Hands-on engineering work around reliable robotics data-acquisition environments.
+
+**Focus areas**
+
+* Linux robotics workstations
+* Multi-device data acquisition
+* Camera and robot data workflows
+* Structured robotics datasets
+* Storage and network integration
+* Data pipeline diagnostics
+* Performance investigation
+* Operational reliability
 
 `Python` `Linux` `Networking` `Robotics` `Data Acquisition`
 
+---
+
 ### Data Quality & Validation Tooling
 
-Python-based validation and reporting workflows for inspecting structured robotics datasets while keeping production data protected.
+Python-based tooling and workflows for validating structured robotics datasets while keeping production data protected.
+
+**Focus areas**
+
+* Dataset structure validation
+* Episode and frame verification
+* Camera-data consistency checks
+* Metadata inspection
+* Structured data analysis
+* Automated quality reporting
+* Read-only validation workflows
 
 `Python` `Pandas` `PyArrow` `Parquet` `ReportLab`
 
-### Robotics Operations Automation
+---
 
-Engineering utilities for operational reporting, structured data processing, workflow automation, and technical documentation.
+### Robotics Operations Reporting & Automation
+
+Engineering utilities designed to improve operational visibility and reduce repetitive reporting work.
+
+**Focus areas**
+
+* Automated reporting workflows
+* Structured operational data
+* Python utility development
+* Shift/date-based reporting
+* Workflow automation
+* Operational documentation
 
 `Python` `Automation` `Reporting` `Structured Data`
 
-### Workstation Configuration & Diagnostics
+---
 
-Practical systems work involving Linux workstation configuration, device communication, CAN interfaces, USB diagnostics, SSH, networking, and reproducible setup procedures.
+### Robot Workstation Configuration & Diagnostics
+
+Practical systems engineering involving Linux robotics workstations and hardware/software integration.
+
+**Focus areas**
+
+* Linux workstation configuration
+* Device communication
+* CAN interfaces
+* USB/device diagnostics
+* SSH and networking
+* Storage workflows
+* Reproducible setup procedures
+* Troubleshooting documentation
 
 `Linux` `Bash` `Python` `CAN` `udev` `SSH` `rsync`
 
 ---
 
-## Selected Projects
+# Selected Projects
 
-### InfraFlow ERP
+## InfraFlow ERP
 
-**Construction Operations & Accounting Platform**
+### Construction Operations & Accounting Platform
 
-Full-stack ERP designed around company-scoped operational and financial workflows.
+A full-stack construction ERP designed around company-scoped operational and financial workflows.
 
-- Procurement and accounting workflows
-- Voucher and approval operations
-- Financial period controls
-- Transaction-backed financial operations
-- Authentication and authorization
-- PostgreSQL relational data model
-- Containerized development workflow
+**Engineering highlights**
 
-**Stack:** `React` `Node.js` `Express` `PostgreSQL` `SQL` `JWT` `Docker`
+* Company-scoped application architecture
+* Procurement workflows
+* Accounting and voucher operations
+* Approval-oriented business processes
+* Financial period controls
+* Transaction-backed financial operations
+* Authentication and authorization
+* PostgreSQL-backed relational data model
+* Containerized development workflow
+
+**Stack**
+
+`React` `Vite` `JavaScript` `Node.js` `Express` `PostgreSQL` `SQL` `JWT` `Docker`
+
+**Links**
 
 [Source Code](https://github.com/SintuMishra/infraflow-erp) · [Live Application](https://infraflow-erp-ten.vercel.app)
 
 ---
 
-### SinFleet ERP
+## SinFleet ERP
 
-**Fleet Operations & Reporting Platform**
+### Fleet Operations & Reporting Platform
 
-Full-stack fleet-management system built around structured operational workflows, relational data, API-driven architecture, authentication, and reporting.
+A full-stack fleet-management system designed around structured operational workflows, relational data, authentication, and reporting.
 
-**Stack:** `TypeScript` `Next.js` `React` `Express` `PostgreSQL` `Prisma` `TanStack Query` `JWT`
+**Engineering highlights**
+
+* Full-stack TypeScript architecture
+* Fleet operations workflows
+* Relational data modeling
+* API-driven frontend/backend communication
+* Authentication and authorization
+* Prisma-based persistence
+* Server-state management
+* Structured reporting
+* Maintainable application architecture
+
+**Stack**
+
+`TypeScript` `Next.js` `React` `Express` `PostgreSQL` `Prisma` `Tailwind CSS` `TanStack Query` `JWT`
+
+**Links**
 
 [Source Code](https://github.com/SintuMishra/sinfleet-erp-saas)
 
 ---
 
-### Team Task Manager
+## Team Task Manager
 
-**Full-Stack Team Collaboration Application**
+### Full-Stack Team Collaboration Application
 
-Team-oriented task-management application with REST APIs, relational persistence, authentication, validation, and a responsive frontend.
+A team-oriented task-management platform built around structured workflows and secure backend APIs.
 
-**Stack:** `React` `Express` `PostgreSQL` `Prisma` `JWT` `Zod` `Tailwind CSS`
+**Engineering highlights**
+
+* REST API architecture
+* PostgreSQL relational persistence
+* Prisma ORM
+* JWT-based authentication
+* Request validation
+* Responsive React interface
+* Full-stack application structure
+
+**Stack**
+
+`React` `Vite` `Tailwind CSS` `Express` `PostgreSQL` `Prisma` `JWT` `Zod`
+
+**Links**
 
 [Source Code](https://github.com/SintuMishra/team-task-manager-fullstack)
 
 ---
 
-### Survey Campaign Builder
+## Survey Campaign Builder
 
-**Interactive Campaign Configuration Application**
+### Interactive Campaign Configuration Application
 
-Type-safe React application with component-driven architecture and reducer-based state management for structured campaign-building workflows.
+A React and TypeScript application for building and managing structured survey campaigns.
 
-**Stack:** `React` `TypeScript` `Vite` `Context API` `useReducer`
+**Engineering highlights**
+
+* Component-driven frontend architecture
+* Type-safe React development
+* Complex UI state management
+* Context API
+* Reducer-based state architecture
+* Responsive interface
+* Interactive campaign-building workflow
+
+**Stack**
+
+`React` `TypeScript` `Vite` `CSS` `Context API` `useReducer` `Lottie`
+
+**Links**
 
 [Source Code](https://github.com/SintuMishra/survey-campaign-builder) · [Live Application](https://survey-campaign-builder-eight.vercel.app)
 
 ---
 
-### Campus Issue Tracker
+## Campus Issue Tracker
 
-**Full-Stack Campus Issue Management System**
+### Full-Stack Campus Issue Management System
 
-Java-based application demonstrating RESTful backend development, authentication/security, relational persistence, and frontend/backend separation.
+A Java-based application demonstrating backend development, application security, relational persistence, and frontend/backend separation.
 
-**Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `React`
+**Engineering highlights**
 
-See the source repositories through my GitHub profile or portfolio.
+* Java backend development
+* RESTful application architecture
+* Authentication and security
+* Relational database integration
+* Backend/frontend separation
+* Structured issue-management workflows
+
+**Stack**
+
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `React`
+
+Source repositories are available through my GitHub profile and portfolio.
 
 ---
 
-## Technical Stack
+# Technical Expertise
 
-### Backend
+## Backend Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -164,13 +282,15 @@ See the source repositories through my GitHub profile or portfolio.
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-### Systems & Robotics
+## Systems & Robotics
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/SSH-4D4D4D?style=flat-square" alt="SSH"/>
   <img src="https://img.shields.io/badge/CAN-00599C?style=flat-square" alt="CAN"/>
@@ -179,7 +299,7 @@ See the source repositories through my GitHub profile or portfolio.
   <img src="https://img.shields.io/badge/Automation-455A64?style=flat-square" alt="Automation"/>
 </p>
 
-### Data & Databases
+## Data & Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -188,11 +308,12 @@ See the source repositories through my GitHub profile or portfolio.
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Apache_Arrow-1293D8?style=flat-square&logo=apache&logoColor=white" alt="Apache Arrow"/>
   <img src="https://img.shields.io/badge/Parquet-455A64?style=flat-square" alt="Parquet"/>
 </p>
 
-### Frontend
+## Frontend Engineering
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -200,9 +321,11 @@ See the source repositories through my GitHub profile or portfolio.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Engineering Tools
+## Engineering Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -214,51 +337,125 @@ See the source repositories through my GitHub profile or portfolio.
 
 ---
 
-## Computer Science
-
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
-
-**200+ DSA problems solved using Java**
-
----
-
-## Education & Credentials
-
-**B.Tech — Computer Science & Engineering (Data Science)**  
-GL Bajaj Institute of Technology and Management  
-`2022 – 2026` · **CGPA: 7.95 / 10 · First Division with Distinction**
-
-**Credentials**
-
-- IBM SkillsBuild AI Certificate — **Grade A+**
-- Deloitte Australia Data Analytics Job Simulation
-- Cisco CCNA: Switching, Routing and Wireless Essentials
-
----
-
-## Engineering Principles
-
-```text
-Reliability  ·  Maintainability  ·  Observability
-Automation   ·  Documentation    ·  Operational Thinking
-```
-
-I aim to understand the complete system around an application — **code, data, infrastructure, networking, deployment, operational workflows, and failure modes**.
-
----
-
-## Contact
-
-I'm open to opportunities in **Software Engineering, Backend Engineering, Robotics Software, and Systems Engineering**.
+# Engineering Activity
 
 <p align="center">
-  <a href="mailto:sintumishra22201@gmail.com"><strong>Email</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/sintu-mishra-3o11/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://portfolio-flame-six-93wdoxmah1.vercel.app/"><strong>Portfolio</strong></a>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=SintuMishra&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent"
+    alt="Sintu Mishra GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SintuMishra&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    alt="Sintu Mishra Most Used Languages"
+  />
 </p>
 
 <p align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SintuMishra&hide_border=true&area=true&theme=github-compact"
+    alt="Sintu Mishra GitHub Contribution Activity"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Public GitHub activity only · Language statistics reflect repository composition and do not represent overall engineering proficiency.
+  </sub>
+</p>
+
+---
+
+# Computer Science Foundation
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks`
+
+* **200+ Data Structures & Algorithms problems solved using Java**
+* Strong foundation in backend-oriented software engineering
+* Experience working with relational database design and SQL
+* Practical understanding of networking and operating-system concepts through Linux systems work
+
+---
+
+# Education
+
+### B.Tech — Computer Science & Engineering (Data Science)
+
+**GL Bajaj Institute of Technology and Management**
+
+`2022 – 2026`
+
+**CGPA:** 7.95 / 10
+**Result:** First Division with Distinction
+
+---
+
+# Certifications & Achievements
+
+* **IBM SkillsBuild AI Certificate** — Grade A+
+* **Deloitte Australia Data Analytics Job Simulation**
+* **Cisco CCNA: Switching, Routing and Wireless Essentials**
+* **200+ DSA problems solved using Java**
+
+---
+
+# Current Focus
+
+```text
+Backend Engineering
+Robotics Software & Data Infrastructure
+Linux Systems & Automation
+Reliable Full-Stack Applications
+Data Engineering
+System Integration & Diagnostics
+```
+
+I am particularly interested in engineering problems involving:
+
+* Reliable backend services and APIs
+* Production-oriented software systems
+* Robotics software and data workflows
+* Linux-based infrastructure and automation
+* Relational databases and structured data
+* Hardware/software integration and diagnostics
+
+---
+
+# Engineering Principles
+
+```text
+Reliability       Maintainability       Observability
+Automation        Documentation         Operational Thinking
+```
+
+I aim to understand the complete system around an application — not only the source code, but also **data, infrastructure, networking, deployment, operational workflows, diagnostics, and failure modes**.
+
+---
+
+# Let's Connect
+
+I'm open to opportunities in:
+
+**Software Engineering · Backend Engineering · Robotics Software · Systems Engineering**
+
+<p align="center">
+  <a href="mailto:sintumishra22201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sintu-mishra-3o11/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-flame-six-93wdoxmah1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/SintuMishra">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Sintu Mishra</strong><br/>
   <sub>Software Engineer · Backend · Systems · Robotics</sub>
 </p>
