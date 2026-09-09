@@ -347,35 +347,35 @@ GL Bajaj Institute of Technology and Management
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SintuMishra&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Sintu Mishra GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SintuMishra&layout=compact&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
-
-> GitHub language statistics reflect public repository code and do not represent overall engineering proficiency.
-
----
-
 ## Current Focus
 
 ```text
 Backend Engineering
 Robotics Software & Data Infrastructure
 Linux Systems & Automation
-Reliable Full-Stack Applications
+Full-Stack Engineering
 Data Engineering
 System Integration & Diagnostics
 ```
+
+I am particularly interested in engineering problems involving:
+
+- Reliable backend services and APIs
+- Production-oriented software systems
+- Robotics software and data workflows
+- Linux-based infrastructure and automation
+- Relational databases and structured data
+- Hardware/software integration and diagnostics
+
+---
+
+## Engineering Principles
+
+I value software that is:
+
+**Reliable** · **Maintainable** · **Observable** · **Well Documented** · **Built for Real-World Use**
+
+My work increasingly focuses on understanding the complete system around an application — not only writing code, but also considering data, infrastructure, networking, deployment, operational workflows, and failure modes.
 
 ---
 
@@ -384,15 +384,19 @@ System Integration & Diagnostics
 I'm open to opportunities in **Software Engineering, Backend Engineering, Robotics Software, and Systems Engineering**.
 
 <p align="center">
-  <a href="mailto:sintumishra22201@gmail.com">Email</a>
-  ·
-  <a href="https://www.linkedin.com/in/sintu-mishra-3o11/">LinkedIn</a>
-  ·
-  <a href="https://portfolio-flame-six-93wdoxmah1.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://github.com/SintuMishra">GitHub</a>
+  <a href="mailto:sintumishra22201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sintu-mishra-3o11/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-flame-six-93wdoxmah1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>Software Engineer · Backend · Systems · Robotics</sub>
+  <sub>
+    Software Engineer · Backend · Systems · Robotics
+  </sub>
 </p>
