@@ -337,33 +337,15 @@ Source repositories are available through my GitHub profile and portfolio.
 
 ---
 
-# Engineering Activity
+## Engineering Activity
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=SintuMishra&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent"
-    alt="Sintu Mishra GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SintuMishra&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-    alt="Sintu Mishra Most Used Languages"
-  />
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub Statistics"/>
+  <img width="49%" src="./assets/top-languages.svg" alt="Language Distribution"/>
 </p>
 
 <p align="center">
-  <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SintuMishra&hide_border=true&area=true&theme=github-compact"
-    alt="Sintu Mishra GitHub Contribution Activity"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Public GitHub activity only · Language statistics reflect repository composition and do not represent overall engineering proficiency.
-  </sub>
+  <img width="98%" src="./assets/contribution-graph.svg" alt="Contribution Activity"/>
 </p>
 
 ---
